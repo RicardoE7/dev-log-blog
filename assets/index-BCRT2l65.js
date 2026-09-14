@@ -386,4 +386,4 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
         flex min-h-screen
         flex-col bg-[#090d14]
         text-slate-200
-      `,children:[n,l,u]}),e[10]=l,e[11]=d),d}function $p(e){let t=(0,hp.c)(2),{children:n}=e,r;return t[0]===n?r=t[1]:(r=(0,X.jsx)(Pp,{children:n}),t[0]=n,t[1]=r),r}(0,mp.createRoot)(document.getElementById(`root`)).render((0,X.jsx)(x.StrictMode,{children:(0,X.jsx)(An,{children:(0,X.jsx)($p,{children:(0,X.jsx)(Qp,{})})})}));
+      `,children:[n,l,u]}),e[10]=l,e[11]=d),d}function $p(e){let t=(0,hp.c)(2),{children:n}=e,r;return t[0]===n?r=t[1]:(r=(0,X.jsx)(Pp,{children:n}),t[0]=n,t[1]=r),r}(0,mp.createRoot)(document.getElementById(`root`)).render((0,X.jsx)(x.StrictMode,{children:(0,X.jsx)(An,{basename:`/dev-log-blog`,children:(0,X.jsx)($p,{children:(0,X.jsx)(Qp,{})})})}));
