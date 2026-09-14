@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base: '/dev-log-blog'
+  base: '/dev-log-blog/'
 })
